@@ -1,6 +1,8 @@
 <p align="center">
-<img width="1920" alt="mac1024" src="https://github.com/JTostitos/snippets-enhancements-bugs/assets/17661536/3f9ee7e5-18c2-4de5-b47e-66f52fac1247">
+<img width="1920" alt="mac1024" src="https://github.com/user-attachments/assets/f895004b-6706-4471-9e02-ca451ce2dd06">
 </p>
+
+
 
 ## Piatto Enhancements and Bug Tracker Repository
 
